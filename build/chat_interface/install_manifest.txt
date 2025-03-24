@@ -1,0 +1,17 @@
+/home/ananya/ros2_ws/install/chat_interface/lib/chat_interface/timothy_publisher
+/home/ananya/ros2_ws/install/chat_interface/lib/chat_interface/bob_subscriber
+/home/ananya/ros2_ws/install/chat_interface/share/ament_index/resource_index/package_run_dependencies/chat_interface
+/home/ananya/ros2_ws/install/chat_interface/share/ament_index/resource_index/parent_prefix_path/chat_interface
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/environment/ament_prefix_path.sh
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/environment/ament_prefix_path.dsv
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/environment/path.sh
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/environment/path.dsv
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/local_setup.bash
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/local_setup.sh
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/local_setup.zsh
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/local_setup.dsv
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/package.dsv
+/home/ananya/ros2_ws/install/chat_interface/share/ament_index/resource_index/packages/chat_interface
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/cmake/chat_interfaceConfig.cmake
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/cmake/chat_interfaceConfig-version.cmake
+/home/ananya/ros2_ws/install/chat_interface/share/chat_interface/package.xml

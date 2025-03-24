@@ -1,0 +1,4 @@
+Invoking command in '/home/ananya/ros2_ws/build/chat_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ananya/ros2_ws/build/chat_interface -- -j16 -l16
+Invoked command in '/home/ananya/ros2_ws/build/chat_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ananya/ros2_ws/build/chat_interface -- -j16 -l16
+Invoking command in '/home/ananya/ros2_ws/build/chat_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ananya/ros2_ws/build/chat_interface
+Invoked command in '/home/ananya/ros2_ws/build/chat_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ananya/ros2_ws/build/chat_interface
